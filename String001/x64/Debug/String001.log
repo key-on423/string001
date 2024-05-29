@@ -1,0 +1,3 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\String001\String001\here.c(11,13): warning C4020: “get_s”: 实参太多
+  String001.vcxproj -> C:\Users\35316\Desktop\.vs\String001\x64\Debug\String001.exe
